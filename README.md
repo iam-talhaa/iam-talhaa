@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Muhammad Talha
 🔭 I’m currently working on Liver Disease Detection Using Flutter + Machine Learning<br><br>🌱 I’m currently learning Flutter and exploring Machine Learning to build intelligent and interactive mobile applications<br><br>📫 How to reach me: tahakhan4141@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1AIXOcw7SYm_szWxpc7viSlv-_vJCr8yI/view?usp=sharing<br><br>
 
 
@@ -17,5 +17,9 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=iam-talhaa&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+![Coding at Night](https://raw.githubusercontent.com/iam-talhaa/iam-talhaa/main/assets/flutter-night-coding.gif)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
