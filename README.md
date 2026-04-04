@@ -34,10 +34,6 @@
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      WAVE DIVIDER                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -46,45 +42,62 @@
 
 <div align="center">
 
-## ◈ &nbsp;`IDENTITY.dart`&nbsp; ◈
+<!-- ░░░ IDENTITY SECTION HEADER — CYLINDER 3D, deep violet ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0015,30:3b0764,70:3b0764,100:0a0015&height=110&text=%E2%97%88%20IDENTITY%20MATRIX%20%E2%97%88&fontSize=34&fontColor=ffffff&fontAlignY=50&desc=The%20Developer%20Behind%20The%20Code&descAlignY=74&descSize=15&descColor=c4b5fd&animation=fadeIn&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Flutter+Developer+%7C+ML+Explorer+%7C+Software+Engineer;tahakhan4141%40gmail.com+%7C+Pakistan" alt="identity sub"/>
 
-```dart
-class MuhammadTalha extends SoftwareEngineer {
+<br/>
 
-  final String name     = "Muhammad Talha";
-  final String role     = "Flutter Mobile Application Developer";
-  final String email    = "tahakhan4141@gmail.com";
-
-  final List<String> currentlyDoing = [
-    "🚀  Shipping production-grade Flutter apps",
-    "🤖  Integrating ML models into mobile experiences",
-    "📱  Mastering advanced Flutter animations & state management",
-    "🌐  Building scalable Firebase backends",
-  ];
-
-  final Map<String, String> funFacts = {
-    "⚡ Superpower"  : "Turning Figma designs into pixel-perfect Flutter UIs",
-    "🎯 Mission"     : "Build apps that feel alive, not just functional",
-    "🌱 Learning"    : "TensorFlow Lite × Flutter × On-device ML",
-    "💬 Ask me about": "Flutter, Dart, Firebase, or anything mobile!",
-  };
-
-  @override
-  String toString() => "Crafting the future, one widget at a time. 💫";
-}
-```
-
-<div align="center">
-
-<a href="mailto:tahakhan4141@gmail.com">
-  <img src="https://img.shields.io/badge/📫 Reach%20Me-tahakhan4141%40gmail.com-7c3aed?style=for-the-badge&labelColor=0f0c29" alt="email"/>
-</a>
+<!-- ─── WHO I AM — big shield cards ─── -->
+<img src="https://img.shields.io/badge/-%F0%9F%91%A4%20Muhammad%20Talha-1a0533?style=for-the-badge&labelColor=2d1b69" height="38"/>
 &nbsp;
-<a href="https://drive.google.com/file/d/1AIXOcw7SYm_szWxpc7viSlv-_vJCr8yI/view?usp=sharing">
-  <img src="https://img.shields.io/badge/📄 My%20Resume-View%20Now-302b63?style=for-the-badge&labelColor=0f0c29" alt="resume"/>
+<img src="https://img.shields.io/badge/-Flutter%20Dev%20%26%20ML%20Explorer-0d1117?style=for-the-badge&labelColor=161b22&color=7c3aed" height="38"/>
+&nbsp;
+<img src="https://img.shields.io/badge/-Pakistan%20%F0%9F%87%B5%F0%9F%87%B0-1a0010?style=for-the-badge&labelColor=3d0019&color=f472b6" height="38"/>
+
+<br/><br/>
+
+<!-- ─── STATUS PILLS ─── -->
+<img src="https://img.shields.io/badge/%E2%96%B6%20CURRENTLY-SHIPPING%20FLUTTER%20APPS-7c3aed?style=for-the-badge&labelColor=0f0c29"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%E2%96%B6%20LEARNING-TENSORFLOW%20LITE%20%C3%97%20ON--DEVICE%20ML-302b63?style=for-the-badge&labelColor=0f0c29"/>
+
+<br/><br/>
+
+<!-- ─── 4 ACTIVITY CARDS — shields.io large badges ─── -->
+
+<img src="https://img.shields.io/badge/%F0%9F%9A%80%20SHIPPING-Production%20Flutter%20Apps-a78bfa?style=for-the-badge&labelColor=12002e&logoColor=white" height="34"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%A4%96%20INTEGRATING-ML%20Into%20Mobile-60a5fa?style=for-the-badge&labelColor=001020&logoColor=white" height="34"/>
+<br/>
+<img src="https://img.shields.io/badge/%F0%9F%93%B1%20MASTERING-Advanced%20Animations-34d399?style=for-the-badge&labelColor=002010&logoColor=white" height="34"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20BUILDING-Scalable%20Firebase%20Backends-f472b6?style=for-the-badge&labelColor=200010&logoColor=white" height="34"/>
+
+<br/><br/>
+
+<!-- ─── FUN FACTS STRIP ─── -->
+<img src="https://img.shields.io/badge/%E2%9A%A1%20Superpower-Figma%20%E2%86%92%20Flutter%20UI-7c3aed?style=flat-square&labelColor=1a0533"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%8E%AF%20Mission-Apps%20That%20Feel%20Alive-302b63?style=flat-square&labelColor=0d0d1a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%8C%B1%20Learning-TFLite%20%C3%97%20Flutter-0a2540?style=flat-square&labelColor=001020"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%92%AC%20Ask%20Me-Flutter%20%7C%20Dart%20%7C%20Firebase-063a20?style=flat-square&labelColor=002010"/>
+
+<br/><br/>
+
+<!-- ─── CTA Buttons ─── -->
+<a href="mailto:tahakhan4141@gmail.com">
+  <img src="https://img.shields.io/badge/%F0%9F%93%AB%20Email%20Me-tahakhan4141%40gmail.com-7c3aed?style=for-the-badge&labelColor=0f0c29"/>
 </a>
+&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1AIXOcw7SYm_szWxpc7viSlv-_vJCr8yI/view?usp=sharing">
+  <img src="https://img.shields.io/badge/%F0%9F%93%84%20Resume-View%20Now%20%E2%86%92-302b63?style=for-the-badge&labelColor=0f0c29"/>
+</a>
+
+<br/><br/>
 
 </div>
 
@@ -96,7 +109,8 @@ class MuhammadTalha extends SoftwareEngineer {
 
 <div align="center">
 
-## ◈ &nbsp;`TECH_STACK.json`&nbsp; ◈
+<!-- ░░░ TECH STACK HEADER — RECT, cyber electric blue with neon stroke ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020b18,40:0c2340,60:0c2340,100:020b18&height=85&text=%E2%9A%A1%20TECH%20ARSENAL%20%E2%9A%A1&fontSize=36&fontColor=38bdf8&fontAlignY=55&desc=Languages%20%E2%80%A2%20Frameworks%20%E2%80%A2%20Tools%20%E2%80%A2%20Cloud&descAlignY=80&descSize=14&descColor=7dd3fc&animation=fadeIn&stroke=0ea5e9&strokeWidth=3" width="100%"/>
 
 </div>
 
@@ -173,7 +187,8 @@ class MuhammadTalha extends SoftwareEngineer {
 
 <div align="center">
 
-## ◈ &nbsp;`FEATURED_PROJECTS[]`&nbsp; ◈
+<!-- ░░░ PROJECTS HEADER — SOFT shape, emerald green, double stroke ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020f08,45:063a20,55:063a20,100:020f08&height=95&text=%F0%9F%9A%80%20FEATURED%20PROJECTS&fontSize=34&fontColor=34d399&fontAlignY=50&desc=Crafted%20With%20Passion%20%E2%80%A2%20Shipped%20With%20Precision&descAlignY=72&descSize=14&descColor=6ee7b7&animation=fadeIn&stroke=059669&strokeWidth=3" width="100%"/>
 
 </div>
 
@@ -244,36 +259,48 @@ Scalable Firebase-powered dashboard with real-time analytics, push notifications
 
 <div align="center">
 
-## ◈ &nbsp;`PERFORMANCE_DASHBOARD`&nbsp; ◈
+<!-- ░░░ DASHBOARD HEADER — SLICE shape, dark with violet glow ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D0B1E,60:1e0a4a,100:0D0B1E&height=100&text=%F0%9F%93%8A%20PERFORMANCE%20DASHBOARD&fontSize=30&fontColor=a78bfa&fontAlignY=48&desc=GitHub%20Stats%20%E2%80%A2%20Streaks%20%E2%80%A2%20Languages%20%E2%80%A2%20Activity&descAlignY=70&descSize=14&descColor=ddd6fe&animation=fadeIn&stroke=6d28d9&strokeWidth=2" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=GitHub+Statistics+%7C+Streaks+%7C+Languages+%7C+Activity" alt="dashboard sub"/>
 
 <br/>
 
-<a href="https://github.com/iam-talhaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iam-talhaa&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&bg_color=0f0c29&title_color=a78bfa&icon_color=7c3aed&text_color=ffffff&border_radius=12" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-talhaa&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&layout=compact&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&border_radius=12" alt="Top Languages"/>
-</a>
+<!-- ─── Stats + Languages side by side ─── -->
+<img src="https://github-readme-stats.vercel.app/api?username=iam-talhaa&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=false&bg_color=0D0B1E&title_color=A78BFA&icon_color=7C3AED&text_color=E2D9F3&border_radius=16" height="180" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iam-talhaa&theme=midnight-purple&hide_border=true&layout=compact&bg_color=0D0B1E&title_color=A78BFA&text_color=E2D9F3&border_radius=16&langs_count=8" height="180" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=iam-talhaa&theme=midnight-purple&hide_border=true&background=0f0c29&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&border_radius=12" alt="GitHub Streak"/>
+<!-- ─── Streak card ─── -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=iam-talhaa&theme=midnight-purple&hide_border=true&background=0D0B1E&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E2D9F3&dates=7C7496&border_radius=16" alt="GitHub Streak" width="680"/>
 
-</div>
+<br/><br/>
+
+<!-- ─── Activity Graph label ─── -->
+<img src="https://img.shields.io/badge/%F0%9F%93%88%20CONTRIBUTION-ACTIVITY%20HEATMAP-7c3aed?style=for-the-badge&labelColor=0D0B1E"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-talhaa&bg_color=0D0B1E&color=A78BFA&line=7C3AED&point=FFFFFF&area_color=2d1b69&area=true&hide_border=true&radius=12" width="100%" alt="Activity Graph"/>
 
 <br/>
 
-<!-- Snake Contribution Animation -->
-<div align="center">
+<!-- ─── Snake label ─── -->
+<img src="https://img.shields.io/badge/%F0%9F%90%8D%20CONTRIBUTION-SNAKE%20TRAIL-302b63?style=for-the-badge&labelColor=0D0B1E"/>
 
-### 🐍 &nbsp;Contribution Snake
+<br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iam-talhaa/iam-talhaa/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iam-talhaa/iam-talhaa/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iam-talhaa/iam-talhaa/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iam-talhaa/iam-talhaa/output/github-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/iam-talhaa/iam-talhaa/output/github-snake.svg" width="100%"/>
 </picture>
 
-> ⚙️ *To activate the snake: Add a GitHub Actions workflow in your profile repo that generates the snake SVG to the `output` branch. [Guide here →](https://github.com/Platane/snk)*
+> ⚙️ *Activate snake: add a GitHub Actions workflow that outputs the SVG to the `output` branch — [Guide →](https://github.com/Platane/snk)*
+
+<br/>
 
 </div>
 
@@ -285,11 +312,32 @@ Scalable Firebase-powered dashboard with real-time analytics, push notifications
 
 <div align="center">
 
-## ◈ &nbsp;`ACHIEVEMENTS.trophy`&nbsp; ◈
+<!-- ░░░ ACHIEVEMENTS HEADER — EGG shape, molten gold theme ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:150e00,40:78350f,60:78350f,100:150e00&height=110&text=%F0%9F%8F%86%20HALL%20OF%20ACHIEVEMENTS&fontSize=30&fontColor=fbbf24&fontAlignY=50&desc=Milestones%20%E2%80%A2%20Trophies%20%E2%80%A2%20Badges%20%E2%80%A2%20Glory&descAlignY=72&descSize=14&descColor=fde68a&animation=fadeIn&stroke=f59e0b&strokeWidth=3" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=GitHub+Trophies+%7C+Milestones+%7C+Badges" alt="achievements sub"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=iam-talhaa&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" width="100%"/>
+<!-- ─── Trophy shelf label ─── -->
+<img src="https://img.shields.io/badge/%F0%9F%8F%86%20GITHUB-TROPHY%20SHELF-ffd700?style=for-the-badge&labelColor=1a1200"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=iam-talhaa&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&column=7" width="100%" alt="GitHub Trophies"/>
+
+<br/><br/>
+
+<!-- ─── Achievement milestone badges ─── -->
+<img src="https://img.shields.io/badge/%F0%9F%A5%87%20ACTIVE%20CODER-Consistent%20Contributions-ffd700?style=for-the-badge&labelColor=1a1200"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%93%B1%20MOBILE%20EXPERT-Flutter%20Specialist-a78bfa?style=for-the-badge&labelColor=0a001a"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/%F0%9F%A4%96%20ML%20EXPLORER-AI%20%26%20Mobile%20Integration-34d399?style=for-the-badge&labelColor=001a0a"/>
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%8C%90%20FULL%20STACK-Firebase%20%26%20Cloud%20Builder-f472b6?style=for-the-badge&labelColor=1a000a"/>
+
+<br/><br/>
 
 </div>
 
@@ -301,7 +349,8 @@ Scalable Firebase-powered dashboard with real-time analytics, push notifications
 
 <div align="center">
 
-## ◈ &nbsp;`CONNECT.links`&nbsp; ◈
+<!-- ░░░ CONNECT HEADER — ROUNDED shape, hot pink-magenta ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:130010,40:6b0f3a,60:6b0f3a,100:130010&height=95&text=%F0%9F%8C%90%20LET%27S%20CONNECT&fontSize=36&fontColor=f9a8d4&fontAlignY=50&desc=LinkedIn%20%E2%80%A2%20Instagram%20%E2%80%A2%20Gmail%20%E2%80%A2%20Resume&descAlignY=73&descSize=14&descColor=fbcfe8&animation=fadeIn&stroke=ec4899&strokeWidth=3" width="100%"/>
 
 <br/>
 
@@ -331,19 +380,26 @@ Scalable Firebase-powered dashboard with real-time analytics, push notifications
 
 <div align="center">
 
-## ◈ &nbsp;`MODE: ACTIVE`&nbsp; ◈
+<!-- ░░░ MODE ACTIVE HEADER — CYLINDER 3D, neon green matrix glow ░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:010f06,30:064e1b,70:064e1b,100:010f06&height=110&text=%F0%9F%92%BB%20MODE%3A%20ACTIVE&fontSize=36&fontColor=4ade80&fontAlignY=50&desc=Late%20Night%20Coding%20%E2%80%94%20Activated&descAlignY=73&descSize=15&descColor=86efac&animation=fadeIn&stroke=16a34a&strokeWidth=2" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=15&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=Late+Night+Coding+Mode+%E2%80%94+Activated+%F0%9F%92%BB" alt="mode sub"/>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/iam-talhaa/iam-talhaa/main/assets/flutter-night-coding.gif" width="480" alt="Late Night Coding" style="border-radius: 16px;"/>
-
-<br/>
-<sub>💻 &nbsp;<b>Late Night Coding Mode — Activated</b>&nbsp; 💻</sub>
+<!-- Top label bar -->
+<img src="https://img.shields.io/badge/%F0%9F%92%BB%20LATE%20NIGHT-CODING%20MODE%20ACTIVATED-7c3aed?style=for-the-badge&labelColor=1a0533"/>
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iam-talhaa&bg_color=0f0c29&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true&radius=8" width="100%" alt="Activity Graph"/>
+<img src="https://raw.githubusercontent.com/iam-talhaa/iam-talhaa/main/assets/flutter-night-coding.gif" width="480" alt="Late Night Coding"/>
+
+<br/><br/>
+
+<!-- Bottom caption bar -->
+<img src="https://img.shields.io/badge/%E2%9A%A1%20BUILDING%20THE%20FUTURE-One%20Widget%20at%20a%20Time-302b63?style=for-the-badge&labelColor=0f0c29"/>
+
+<br/><br/>
 
 </div>
 
