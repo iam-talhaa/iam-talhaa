@@ -21,7 +21,7 @@
 I'm a Flutter developer focused on building polished, production-ready mobile apps, with a growing interest in bringing machine learning on-device. I care about clean UI, smooth motion, and code that's easy to maintain.
 
 - 🚀 Currently shipping Flutter apps backed by Firebase
-- 🤖 Learning TensorFlow Lite for on-device inference
+- 🤖 Learning TensorFlow for on-device inference
 - 🎯 Translate Figma designs into pixel-accurate Flutter UI
 - 📫 Reach me at **tahakhan4141@gmail.com**
 
