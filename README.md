@@ -18,7 +18,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0b2e,100:4c1d95&height=60&text=ABOUT%20ME&fontSize=22&fontColor=c4b5fd&fontAlignY=65&stroke=a855f7&strokeWidth=1&animation=fadeIn" width="100%" />
 </div>
 
-I'm a Flutter developer focused on building polished, production-ready mobile apps, with a growing interest in bringing machine learning on-device. I care about clean UI, smooth motion, and code that's easy to maintainable.
+I'm a Flutter developer focused on building polished, production-ready mobile apps, with a growing interest in bringing machine learning on-device. I care about clean UI, smooth motion, and code that's easy to maintainables.
 
 - 🚀 Currently shipping Flutter apps backed by Firebase
 - 🤖 Learning TensorFlow for on-device inference
