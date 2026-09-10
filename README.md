@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,50:0d2f3f,100:0a0f1a&height=200&section=header&text=Muhammad%20Talha&fontSize=48&fontColor=e0f7f0&fontAlignY=38&desc=Flutter%20Developer%20%7C%20ML%20Explorer%20%7C%20Software%20Engineer&descAlignY=58&descSize=16&descColor=7dd3c0&animation=twinkling" width="100%" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00d4aa&center=true&vCenter=true&width=650&lines=Building+Flutter+apps+that+feel+alive;Exploring+on-device+machine+learning;Flutter+%C2%B7+Dart+%C2%B7+Firebase+%C2%B7+TensorFlow" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00d4aa&center=true&vCenter=true&width=650&lines=Building+Flutter+apps+that+feel+alive;Exploring+on-device+machine+learning;Flutter+%C2%B7+Dart+%C2%B7+Firebase+%C2%B7+TensorFlow + DEVOPS " alt="typing" />
 
 <br/>
 
