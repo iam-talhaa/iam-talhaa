@@ -52,7 +52,7 @@ I'm a **Flutter developer** focused on turning ideas into polished, production-r
 <summary>🧭 What I'm currently exploring</summary>
 <br/>
 
-- 📱 Advanced state management patterns (Riverpod, Bloc)
+- 📱 Advanced state management patterns (Riverpod, Bloc, Provider)
 - 🧠 On-device ML with TensorFlow Lite + OpenCV
 - ☁️ Supabase as a lightweight Firebase alternative
 - 🎨 Motion design and micro-interactions in Flutter
