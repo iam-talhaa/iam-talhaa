@@ -34,7 +34,7 @@ I'm a **Flutter developer** focused on turning ideas into polished, production-r
 - 🚀 Building production Flutter apps with **clean architecture (MVVM)**
 - 🔥 Backing them with **Firebase** and **Supabase**
 - 🤖 Learning **TensorFlow Lite** for on-device inference
-- 🎯 Turning Figma designs into pixel-Perfect Flutter UI
+- 🎯 Turning Figma designs into pixel-Perfect Flutters UI
 - 📫 Reach me at **tahakhan4141@gmail.com**
 
 <details>
