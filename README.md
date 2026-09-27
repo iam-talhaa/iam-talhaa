@@ -44,7 +44,7 @@ I'm a **Flutter developer** focused on turning ideas into polished, production-r
 - 🏫 BSc in Software Engineering
 - 🥇 Certified Scrum Master (CSM)
 - 💼 Freelance developer on Upwork & Fiverr
-- 🌍 Working remotely with clients worldwide
+- 🌍 Working remotely with clients Globally
 
 </details>
 
