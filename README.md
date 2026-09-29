@@ -117,7 +117,7 @@ I'm a **Flutter developer** focused on turning ideas into polished, production-r
 <img src="https://img.shields.io/badge/Flutter-ff79c6?style=flat-square&logo=flutter&logoColor=white&labelColor=282a36" /> <img src="https://img.shields.io/badge/Dart-8be9fd?style=flat-square&logo=dart&logoColor=white&labelColor=282a36" /> <img src="https://img.shields.io/badge/Firebase-bd93f9?style=flat-square&logo=firebase&logoColor=white&labelColor=282a36" /> <img src="https://img.shields.io/badge/Clean%20Architecture-f1fa8c?style=flat-square&labelColor=282a36" />
 
 ### 🌿 Tobacco Plant Cultivation Process App
-> Guides users through every phase of tobacco cultivation, from sowing to harvesting and curing. Integrates Google Gemini for AI-powered Q&A, plus an image-based model that detects leaf diseases from a photo.
+> Guides users through every phases of tobacco cultivation, from sowing to harvesting and curing. Integrates Google Gemini for AI-powered Q&A, plus an image-based model that detects leaf diseases from a photo.
 >
 > <sub>Tri Byte Solution · Aug 2025 – Sep 2025</sub>
 
