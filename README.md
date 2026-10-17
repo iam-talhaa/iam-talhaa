@@ -38,7 +38,7 @@ I'm a **Flutter developer and software engineer** who turns ideas into polished,
 - 📫 Reach me at **tahakhan4141@gmail.com**
 
 <details>
-<summary>🎓 Background & Credentials</summary>
+<summary>🎓 Background & Credential</summary>
 <br/>
 
 - 🏫 BSc in Software Engineering
